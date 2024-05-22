@@ -1,0 +1,34 @@
+@charset "UFT-8";
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Dancing Script", cursive;
+}
+
+body {
+  position: relative;
+  background-color: darkgray;
+  text-align: center;
+}
+
+article {
+  position: absolute;
+  margin: 400px;
+  margin-left: 640px;
+  padding: 10px;
+  background-color: white;
+  width: 400px;
+  height: 350px;
+  border-radius: 8px;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 2em;
+  
+}
