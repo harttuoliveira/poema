@@ -7,6 +7,8 @@
 }
 
 body, html {
+  background-image: url(imagens/pexels-pripicart-619950\ \(1\).jpg);
+  background-repeat: no-repeat;
   position: relative;
   background-color: darkgray;
   text-align: center;
